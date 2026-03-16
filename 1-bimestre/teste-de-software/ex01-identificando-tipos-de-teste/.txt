@@ -1,0 +1,5 @@
+1. Teste unitário
+
+2. Teste de integração
+
+3. Escrever o teste antes do código (ciclo: teste → falha → código → passar).
